@@ -1,0 +1,10 @@
+.search1 {
+    margin: auto;
+  width: 50%; /* Set a fixed width to demonstrate centering */
+}
+.bg {
+    background-color: black;
+}
+.txt {
+    color: white;
+}
